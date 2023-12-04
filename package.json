@@ -1,5 +1,6 @@
 {
   "name": "c02_api-rest_daily-diet",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
